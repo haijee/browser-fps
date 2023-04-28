@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/haijee/web-fps.git"
+    "url": "git+https://github.com/haijee/browser-fps.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/haijee/web-fps/issues"
+    "url": "https://github.com/haijee/browser-fps/issues"
   },
-  "homepage": "https://github.com/haijee/web-fps#readme"
+  "homepage": "https://github.com/haijee/browser-fps#readme"
 }
